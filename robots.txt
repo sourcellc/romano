@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+sitemap:  http://romanobet.v8.js.cn/sitemap.xml
